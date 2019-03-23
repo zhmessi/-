@@ -1,0 +1,5 @@
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://github.com/apache/airflow/blob/79f8ee14153ce0f4d2a076b3ae1456d8bb7d68f4/tests/www/api/experimental/test_endpoints.py
